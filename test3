@@ -1,0 +1,31 @@
+Usuario
+int id
+String nombre
+String correoElectronico
+Curso curso
+String telefono
+Enumerador tipoUsuario
+String cumpleaños
+String institucion
+
+Curso
+String codigoacceso
+String nombre
+String frecuncia
+String ubicacion
+List asignacion
+List participantes
+
+Asignacion
+String nombre
+Time fechaentrega
+String comentarios
+String Valor
+List entrega
+
+Entrega
+Usuario usuario
+Time fechadeentrega
+Enumerador estatus
+File archivo
+int calificacion
