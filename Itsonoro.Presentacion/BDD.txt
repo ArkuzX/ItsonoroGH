@@ -1,0 +1,28 @@
+{
+  "id": 0,
+  "nombre": "salvador",
+  "correoelectronico": "correo@gmail.com",
+  "institucion": "itson",
+  "tipoUsuario": "ALUMNO",
+  "curso": {
+    "codigoacceso": "contraseÃ±a",
+    "nombre": "email",
+    "horario": "email",
+    "ubicacion": "email",
+    "asignacion": [],
+    "participantes": [
+      {
+        "id": 0,
+        "nombre": "lalo"
+      }
+    ]
+  }
+}_{
+  "id": 1,
+  "nombre": "a",
+  "correoelectronico": "ferivan98@hotmail.com",
+  "contraseña": "aa",
+  "cumpleaños": "20/08/2021",
+  "institucion": "asd",
+  "tipoUsuario": "PROFESOR"
+}_
